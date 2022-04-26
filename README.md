@@ -1,3 +1,5 @@
+# Please navigate to "demos" to see our contributions for 4995 project
+
 <div align="center">
 <h3>When and How CNNs generalize to out-of-distribution category-viewpoint combinations.</h3>
   <img src="docs/images/fig_1_github.png" alt="Teaser Figure">
