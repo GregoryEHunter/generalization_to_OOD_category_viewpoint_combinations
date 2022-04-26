@@ -8,5 +8,5 @@ Recent work has shown that convolutional neural networks (CNNs) fail to generali
   **ViT_biased_cars.ipynb** - Loads trains and test the ViT on Biased-Cars Dataset  
   **ViT_huggingface_biased-cars-rotation.ipynb** - fine-tunes a separate ViT using the huggingface library built-in functions to classify rotation  
   **ViT_huggingface_biased-cars-shared.ipynb** - fine-tunes a shared ViT using the huggingface library built-in functions  
-  **ViT_huggingface_biased-cars-vehicle.ipynb** - fine-tunes a separate ViT using the huggingface library built-in functions to classify vehicle model  
+  **ViT_huggingface_biased-cars-vehicle.ipynb** - fine-tunes a separate ViT using the huggingface library built-in functions to classify vehicle  
   **using_biased_cars** - demo code how to load, train and test with the Biased-Cars Dataset
