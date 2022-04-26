@@ -4,7 +4,7 @@ Recent work has shown that convolutional neural networks (CNNs) fail to generali
 
 # Code Descriptions
   **using_biased_cars.ipynb** - demo code we did not write, shows how to load, train and test with the Biased-Cars Dataset
-  **?.ipynb** - modified demo code to implement a pretrained resnet18
+  **Pretrained_ResNet18_BiasedCars.ipynb** - modified demo code to implement a pretrained resnet18
   **?.ipynb** - fine-tunes a ViT using the huggingface library for the Biased-Cars dataset
   **ViT_skyler_biased-cars-rotation.ipynb** - fine-tunes a separate ViT using the huggingface library built-in functions to classify rotation
   **ViT_skyler_biased-cars-shared.ipynb** - fine-tunes a shared ViT using the huggingface library built-in functions
